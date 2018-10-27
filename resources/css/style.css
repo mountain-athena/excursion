@@ -1,18 +1,26 @@
-html {
+body {
   background-color: black;
   text-align: center;
-}
+font-family: Verdana}
 
 h1 {
-  font-family: Verdana;
-  font-weight: normal;
+  font-weight: Normal;
   font-size: 50px;
   color: white;
-  text-align: center;}
+  text-align: Center;}
 
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+  color: white;}
 
+p {color: white;}
 
-h4 {
+.link {
   color: Aquamarine;
-  font-size: 16px;
-}
+  font-size: 16px;}
+
+.footer {
+  color: Gray;
+  text-align: right;
+  opacity: .5}
